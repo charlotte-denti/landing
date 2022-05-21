@@ -1,0 +1,29 @@
+.banner {
+  background-image: url(../../images/banner5.jpg);
+  color: #FFD9C0;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 150px;
+  margin: 5px;
+ }
+
+
+.banner h1 {
+  color: white;
+  font-size: 30px;
+  padding-top: 150px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  opacity: 0.9;
+}
+
+
+
+
+
+
+

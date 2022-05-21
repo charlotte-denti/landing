@@ -1,0 +1,24 @@
+ .avatar {
+  width: 125px;
+  height: 130px;
+  border-radius: 10%;
+  float: left;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+
+}
+
+.avatar p {
+
+  color: black;
+  text-align: justify;
+}
+
+
+
+
+
+
+
+
